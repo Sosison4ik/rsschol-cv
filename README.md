@@ -1,1 +1,1 @@
-[])(https://sosison4ik.github.io/rsscholl-cv/cv)
+[](https://sosison4ik.github.io/rsscholl-cv/cv)
